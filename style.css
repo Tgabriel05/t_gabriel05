@@ -66,5 +66,7 @@ input.equal{
     width: 40px;
     height: 40px;
   }
+  input.equal{
+    width:90px
   
 }
